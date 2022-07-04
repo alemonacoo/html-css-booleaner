@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+
+header{
+    height: 10vh;
+    width: auto;
+    background-color: rgb(83, 162, 252);
+    background-image: url("img/pattern.png");
+    background-size: contain;
+}
+
+#logo{
+    max-height: 50%;
+    padding-top: 5vh;
+}
